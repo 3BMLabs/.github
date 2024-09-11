@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome!
 
 <!--
 
@@ -10,3 +10,8 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+We are 3BMLabs, part of 3BM, a construction and engineering firm.
+## Vision
+our goal is radical: everything open source. we shouldn't depend on big companies like Google or Microsoft.<br>
+
+Check out our [website](https://3bm.co.nl/) more information.
