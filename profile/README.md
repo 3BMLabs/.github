@@ -13,6 +13,6 @@
 We are 3BMLabs, part of 3BM Consulting Engineers
 
 ## Vision
-Our goal is radical: everything open source. we shouldn't depend on big companies like Google or Microsoft.<br>
+Our goal is radical: everything open source. <br>
 
 Check out our [website](https://3bm.co.nl/) more information.
