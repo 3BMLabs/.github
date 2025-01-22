@@ -15,4 +15,7 @@ We are 3BMLabs, part of 3BM Consulting Engineers
 ## Vision
 Our goal is radical: everything open source. <br>
 
+The functionality of code is often unclear for architects and engineers.<br>
+we're aiming to provide functional, intuitive, easy to use, well-documented resources about construction publicly available for everyone.
+
 Check out our [website](https://3bm.co.nl/) more information.
